@@ -7,4 +7,4 @@ tags: Louiswi Github
 ---
 ```
 
-#Do the Right Thing, Wait to get fired
+# Do the Right Thing, Wait to get fired
